@@ -12,7 +12,7 @@
 
 # SHA3-512 Hash Generator
 
-This is a simple GUI application built with Rust that allows you to generate SHA3-512 hashes from any input text. The application uses the `native-windows-gui` crate for the graphical interface and the `sha3` crate for hash generation.
+This is a simple windows GUI application built with Rust that allows you to generate SHA3-512 hashes from any input text. The application uses the `native-windows-gui` crate for the graphical interface and the `sha3` crate for hash generation.
 
 ## Features
 
